@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+label {
+	display: block;
+	color: #060;	
+}
+
+button {
+	margin-top: 30px;
+	color: #F00;	
+}
